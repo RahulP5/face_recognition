@@ -1,6 +1,6 @@
 Required Libraries Installation:
 
-((Installing OpenCV For Python:
+((Installing OpenCV For Python:2
 [sudo apt-get install python-opencv]))
 
 

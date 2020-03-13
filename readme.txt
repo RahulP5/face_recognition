@@ -1,9 +1,9 @@
 Required Libraries Installation:
 
-((Installing OpenCV For Python:2
-[sudo apt-get install python-opencv]))
+((Install OpenCV For Python:2))
 
 
+After Installiing open cv:
 
 Install dlib on the Raspberry Pi:
 

@@ -162,7 +162,7 @@ at last run follow command it will start video stream and dect faces.
 
 
 
-
+delete sai folder from dataset/sai after clone
 
 Our face recognition pipeline is running at approximately 1-2 FPS. 
 The vast majority of the computation is happening when a face is being recognized, 

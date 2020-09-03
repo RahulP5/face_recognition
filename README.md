@@ -180,7 +180,7 @@ resulting in slower facial recognition.
 
 
 
-Made with :heart: by **'Rahul Pachpind`**
+Made with :heart: by **`Rahul Pachpind`**
 
 
 

@@ -2,7 +2,7 @@
 
 ## Required Libraries Installation:
 
-_'Install OpenCV For Python:2`_
+_`Install OpenCV For Python:2`_
 
 
 * After Installiing open cv:
